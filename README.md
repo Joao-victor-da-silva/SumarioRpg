@@ -11,7 +11,7 @@ O Sumário RPG é um site web que visa auxiliar mestres e jogadores de RPG a enc
 * **Nível:** O nível de conjuração da magia.
 
 ### Como usar?
-1. **Acesse o site:** [Link para o seu site]
+1. **Acesse o site:** [sumario-rpg.vercel.app](https://sumario-rpg.vercel.app/)
 2. **Digite sua pesquisa:** No campo de pesquisa, insira o nome do item, arma ou magia que você deseja encontrar.
 3. **Explore os resultados:** Os resultados da pesquisa serão exibidos abaixo do campo de pesquisa.
 
@@ -25,10 +25,6 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma su
 
 ### Autor
 João Victor da Silva
-
-### Visite aqui
-[sumario-rpg.vercel.app](https://sumario-rpg.vercel.app/)
-
 
 ### Demonstração
 ![Demonstração](https://github.com/Joao-victor-da-silva/SumarioRpg/blob/main/2024-09-08-19-15-46.gif)
