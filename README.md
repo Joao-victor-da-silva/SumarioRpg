@@ -26,9 +26,6 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma su
 ### Autor
 João Victor da Silva
 
-### Licença
-[Mencione a licença utilizada, se houver]
-
 ### Demonstração
 ![Demonstração](https://github.com/Joao-victor-da-silva/SumarioRpg/blob/main/2024-09-08-19-15-46.gif)
 
